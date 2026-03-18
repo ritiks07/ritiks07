@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritiks07
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 Currently i am working as a salesforce developer.
 
 
 <!---
